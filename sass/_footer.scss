@@ -21,6 +21,10 @@ footer {
       a {
         color: $dkrBlue;
         font-weight: 500;
+
+        &:hover {
+          color: $mdBlue;
+        }
       }
 
       h5 {
